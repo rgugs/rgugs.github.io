@@ -1,0 +1,25 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h3 {
+    line-height: 1pt;
+}
+.container {
+display: grid;
+place-items: center;
+}
+
+#grid {
+    width: 425px;
+    height: 320px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img.card {
+    border: 2px solid purple;
+}
+img.card:hover {
+    border: 2px solid yellow;
+}

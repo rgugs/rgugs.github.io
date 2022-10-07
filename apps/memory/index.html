@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Memory Game</title>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <script
+      src="https://api.countapi.xyz/hit/memorygame.com/visits?callback=liveViews"
+      async
+    ></script>
+  </head>
+  <body>
+    <h1>Memory Game</h1>
+    <p>
+      A beginning project for learning Javascript. The project is based off
+      <a href="https://youtu.be/ec8vSKJuZTk">this</a> Youtube video, however I
+      diverged significantly from the actual code and logic used based on my
+      previous coding experience with Python, reading a lot of documentation,
+      and help from Reddit.
+    </p>
+    <div class="container">
+      <h3>Score: <span id="result"></span></h3>
+      <h3>Attempts Left: <span id="attempts"></span></h3>
+      <div id="grid"></div>
+      <p>
+        <a href="https://www.vecteezy.com/free-vector/dinosaur-clipart">
+          Dinosaur Clipart Vectors by Vecteezy
+        </a>
+      </p>
+      <h3>This page has been visited <span id="visits"></span> times!</h3>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
