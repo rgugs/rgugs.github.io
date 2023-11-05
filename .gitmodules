@@ -1,0 +1,3 @@
+[submodule "repos/memory_game"]
+	path = repos/memory_game
+	url = https://github.com/rgugs/memory_game.git

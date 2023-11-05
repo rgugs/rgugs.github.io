@@ -1,6 +1,6 @@
 /projects/drafts/
 /.quarto/
-/repos/
+# /repos/
 /ignore/
 
 /.luarc.json
