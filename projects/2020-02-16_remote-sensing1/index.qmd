@@ -1,0 +1,79 @@
+---
+title: "Remote Sensing with NAIP"
+author: "Rachel Gugler"
+date: "2020/02/16"
+categories:
+    - student-project
+    - remote-sensing
+    - NAIP
+    - ArcPro
+    - GIS
+filters:
+   - lightbox
+lightbox: auto
+execute:
+  echo: false
+format:
+  html:
+    css: modal.css
+    # code-tools: true
+---
+
+![](/projects/2020-02-16_remote-sensing1/Remote_Sensing.jpg)
+
+<!-- <a href="#" data-micromodal-trigger="mymodal" tabindex="0">
+    <figure>
+      <img src="/projects/2020-02-16_remote-sensing1/Remote_Sensing.jpg" style="width:100%;max-width:700px">
+      <figcaption>Click poster to enlarge</figcaption>
+    </figure>
+</a> -->
+<!-- 
+```{ojs}
+//| include: false
+
+micro = require("micromodal@0.4.10");
+
+micro.init({
+  awaitOpenAnimation: true,
+  awaitCloseAnimation: true
+});
+```
+
+:::::: {#mymodal .modal .micromodal-slide aria-hidden="true"}
+::::: {.modal__overlay tabindex="-1" data-micromodal-close="true"}
+:::: {.modal__container role="dialog" aria-modal="true" aria-labelledby="mymodal-title"}
+
+<button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
+
+::: {#modal-1-content}
+![](/projects/remote-sensing1/Remote_Sensing.jpg)
+:::
+
+::::
+:::::
+:::::: -->
+
+### Tools Used
+* ArcPro
+* [USGS Earth Explorer](https://earthexplorer.usgs.gov/)
+
+### Purpose
+This poster was created as the final project for my Remote Sensing class at [Portland Community College](https://www.pcc.edu/programs/gis/).
+
+### Methods
+
+In class we went through a module where we calculated land cover change using satellite imagery. For the final project I decided to to the same using imagery from the [National Agriculture Imagery Program](https://naip-usdaonline.hub.arcgis.com/) (NAIP) due to the better resolution.
+
+#### NAIP
+The NAIP program aquires aerial imagery during the agricultural growing seasons in the United States and strives to cover each state every 2-3 years. The original imagery products included Red, Green, and Blue bands of imagery, and NIR imagery was added starting in 2003. This allows for the creation of Color Infrared (CIR) and Normalized Difference Vegetation Index (NDVI) products.
+
+### Final Thoughts
+Having completed this project several years ago, I've identified a major issue in my methodology. When we completed our module using satellite imagery, we were using Landsat U.S. Analysis Ready Data (ARD). This data has already gone through rigorous processing. NAIP imagery is still at an unprocessed level where the pixel values are Digital Numbers (DN) corresponding to the intensity of the measured value on the sensor at time of collection, but do not take into account differing lighting conditions, etc. that may impact those values.
+
+Below are links to several papers covering possible ways to normalize NAIP and aerial imagery.
+
+### Research Papers
+
+* Zhang H, Zimba PV, Nzewi EU. A New Pseudoinvariant Near-Infrared Threshold Method for Relative Radiometric Correction of Aerial Imagery. Remote Sensing. 2019; 11(16):1931. [https://doi.org/10.3390/rs11161931](https://doi.org/10.3390/rs11161931)
+* Roy, David P.; Zhang, Hankui; Ju, Junchang; Gomez-Dans, Jose Luis; Lewis, Philip E.; Schaaf, Crystal Barker B.; Sun, Qingsong; Li,
+Jian; Huang, Haiyan; and Kovalskyy, V., "A General Method to Normalize Landsat Reflectance Data to Nadir BRDF Adjusted Reflectance" (2016). GSCE Faculty Publications. 32.[http://openprairie.sdstate.edu/gsce_pubs/32](http://openprairie.sdstate.edu/gsce_pubs/32)

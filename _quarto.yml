@@ -1,0 +1,60 @@
+project:
+  type: website
+  output-dir: docs
+  preview:
+    port: 4040
+
+website:
+  page-navigation: true
+
+  title: "Rachel Gugler"
+  site-url: "https://rachelgugler.com/"
+  favicon: img/favicon.png
+
+  cookie-consent:
+    type: implied
+    style: simple
+  google-analytics: 
+    tracking-id: "G-F93HKJ0ESX"
+    storage: cookies
+  page-footer: 
+    center: "©2023 Rachel Gugler using [Quarto](https://quarto.org/)"
+
+  search:
+    location: navbar
+    type: overlay
+
+  back-to-top-navigation: false
+  navbar:
+    pinned: false 
+    left:
+      - href: index.qmd
+        text: Projects
+      - href: aboutme.qmd
+        text: About Me
+
+    right:
+      - icon: github
+        href: https://github.com/rgugs
+      - icon: linkedin
+        href: https://www.linkedin.com/in/rachel-gugler/
+      - icon: instagram
+        href: https://www.instagram.com/a_meandering_life/
+
+format:
+  html:
+    # smooth-scroll: true
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: true
+    # code-link: true
+    anchor-sections: true
+    fig-cap-location: bottom
+    reference-location: document
+    footnotes-hover: true
+    link-external-newwindow: true
+
+editor:
+  render-on-save: true

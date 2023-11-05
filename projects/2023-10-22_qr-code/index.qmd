@@ -1,0 +1,28 @@
+---
+title: "QR Code Generation"
+author: "Rachel Gugler"
+date: "2023/10/22"
+categories:
+    - programming
+    - python
+---
+<a href="https://github.com/rgugs/qr-code-maker"><button type="button" class="btn btn-secondary btn-sm"><i class="bi bi-github"></i> View Source Code</button></a>
+
+## Tools Used
+* VS Code
+* Python Libraries
+  * qrcode
+  * PIL
+
+## Purpose
+While designing my personal business cards I decided I wanted to have a QR Code on it leading to this website. I had issues in the past with other QR code generators setting time limits on their functionality and they also pose a security risk, so I decided to make my own. I followed several tutorials using the qrcode and PIL libraries.
+
+I styled each QR code differently to ensure I could tell them apart, and used Landsat Imagery as the background images.
+
+## Results
+### Website QR Code
+![Blue QR code leading to the current website](/projects/2023-10-22_qr-code/website_qrcode.png)
+
+### Contacts QR code
+Due to security issues, this QR code does not include my actual contact information.
+![Light and dark blue QR code with an example of vCard information](/projects/2023-10-22_qr-code/vcard_qrcode.png)

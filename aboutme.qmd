@@ -1,0 +1,39 @@
+---
+toc: false
+about:
+  template: jolla
+  id: about-block
+  image: "img/profile_picture.jpg"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/rgugs
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rachel-gugler/ 
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/a_meandering_life/
+---
+
+::: {#about-block}
+:::
+
+Thanks for visiting my portfolio website! I started development on this version of my portfolio website on 2023-10-22 and still have some work to do, but it is coming along. Please come back soon and check out the updates!
+
+# Professional Interests
+
+* Geospatial programming
+* Python
+* Geospatial Data Analysis
+* Data Science
+* Environmental Research
+* Workflow Optimization
+
+# Personal Interests
+
+* Reading
+* SCUBA diving
+* Travel
+* Language learning
+* Painting

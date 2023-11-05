@@ -1,0 +1,17 @@
+---
+toc: false
+title: "Projects"
+listing:
+  contents: projects/**/*.qmd
+  type: grid
+  sort: 
+    - "date desc" 
+  fields: [image, date, title, categories, reading-time]
+  categories: true
+  feed: true
+  sort-ui: true
+page-layout: full
+---
+
+::: {#projects}
+:::

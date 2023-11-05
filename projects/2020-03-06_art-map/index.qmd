@@ -1,0 +1,33 @@
+---
+title: "Map Styles as Art"
+author: "Rachel Gugler"
+date: "2020/03/06"
+categories:
+    - cartography
+    - ArcPro
+    - GIS
+    - student-project
+---
+
+![An art map of the Portland Metro made with a custom style mimicking artistic pointilism](/projects/2020-03-06_art-map/PDX_Metro_ArtMap.jpg)
+
+[Recording of Lightning Talk](https://media.pdx.edu/media/Student+Lightning+TalksA+Rachel+Gulger+PCC%2C+Mimicking+Art+Styles+A+Beginner%27s+Workflow/0_vyyhl3fr)
+
+### Tools Used
+* ArcPro
+* Adobe Illustrator
+* Adobe Photoshop
+
+### Purpose
+As a student at Portland Community College, my advisor recommended me for a lightning talk at the March 2020 PDX Cartography Symposium.
+
+### Methods
+I was inspired by the Pointillism movement of the late 1880s. I wanted to create an ArcPro style that mimicked the individual paint strokes used by artists such as Georges Seurat and Paul Signac.
+At first glance I thought this would be a relatively simple step. I planned to create a seamless pattern in Photoshop and bring it into ArcPro as a fill opiton. 
+
+I learned that I am not the best at making
+seamless tiles and after 7 "experiments" I chose to move on to trying to make an svg file in Illustrator. This also failed to work properly, so in the end I used the generic point marker in ArcPro and 
+modified it to create different sizes of markers. I ended up using 9-10 different sizes/colors of shape markers to create dynamic variation in the map.
+
+### Final Thoughts
+I really enjoyed the experimentation required for completing this project, and I learned a lot about using ArcPro, Photoshop, and Illustrator during this

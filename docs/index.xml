@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Rachel Gugler</title>
+<link>https://rachelgugler.com/index.html</link>
+<atom:link href="https://rachelgugler.com/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Sun, 22 Oct 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>QR Code Generation</title>
+  <dc:creator>Rachel Gugler</dc:creator>
+  <link>https://rachelgugler.com/projects/2023-10-22_qr-code/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://github.com/rgugs/qr-code-maker"><button type="button" class="btn btn-secondary btn-sm"><i class="bi bi-github"></i> View Source Code</button></a></p>
+<section id="tools-used" class="level2">
+<h2 class="anchored" data-anchor-id="tools-used">Tools Used</h2>
+<ul>
+<li>VS Code</li>
+<li>Python Libraries
+<ul>
+<li>qrcode</li>
+<li>PIL</li>
+</ul></li>
+</ul>
+</section>
+<section id="purpose" class="level2">
+<h2 class="anchored" data-anchor-id="purpose">Purpose</h2>
+<p>While designing my personal business cards I decided I wanted to have a QR Code on it leading to this website. I had issues in the past with other QR code generators setting time limits on their functionality and they also pose a security risk, so I decided to make my own. I followed several tutorials using the qrcode and PIL libraries.</p>
+<p>I styled each QR code differently to ensure I could tell them apart, and used Landsat Imagery as the background images.</p>
+</section>
+<section id="results" class="level2">
+<h2 class="anchored" data-anchor-id="results">Results</h2>
+<section id="website-qr-code" class="level3">
+<h3 class="anchored" data-anchor-id="website-qr-code">Website QR Code</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://rachelgugler.com/projects/2023-10-22_qr-code/website_qrcode.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Blue QR code leading to the current website</figcaption>
+</figure>
+</div>
+</section>
+<section id="contacts-qr-code" class="level3">
+<h3 class="anchored" data-anchor-id="contacts-qr-code">Contacts QR code</h3>
+<p>Due to security issues, this QR code does not include my actual contact information. <img src="https://rachelgugler.com/projects/2023-10-22_qr-code/vcard_qrcode.png" class="img-fluid" alt="Light and dark blue QR code with an example of vCard information"></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>programming</category>
+  <category>python</category>
+  <guid>https://rachelgugler.com/projects/2023-10-22_qr-code/index.html</guid>
+  <pubDate>Sun, 22 Oct 2023 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Javascript Memory Game</title>
+  <dc:creator>Rachel Gugler</dc:creator>
+  <link>https://rachelgugler.com/projects/2022-09-20_memory-game/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="under-construction" class="level2">
+<h2 class="anchored" data-anchor-id="under-construction">Under Construction</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://rachelgugler.com/img/under-construction.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Under construction sign</figcaption>
+</figure>
+</div>
+<p>I recently moved my website from a vanilla HTML, CSS, and Javascript website to the Quarto Static Site Generator. I have not migrated this project to work on this website yet. Check back for updates soon, but until then, here is a screenshot of the board.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://rachelgugler.com/projects/2022-09-20_memory-game/Memory-game.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">A memory game built using javascript with dinosaur images.</figcaption>
+</figure>
+</div>
+<p><a href="https://www.vecteezy.com/free-vector/dinosaur-clipart">Dinosaur Clipart Vectors by Vecteezy</a></p>
+<section id="tools-used" class="level3">
+<h3 class="anchored" data-anchor-id="tools-used">Tools Used</h3>
+<ul>
+<li>VS Code</li>
+<li>HTML</li>
+<li>Vanilla Javascript</li>
+<li>CSS</li>
+</ul>
+</section>
+<section id="purpose" class="level3">
+<h3 class="anchored" data-anchor-id="purpose">Purpose</h3>
+<p>I was already relatively familiar with HTML and CSS, so I decided to start learning Javascript through making games.</p>
+</section>
+<section id="methods" class="level3">
+<h3 class="anchored" data-anchor-id="methods">Methods</h3>
+<p>This project is based off <a href="https://youtu.be/ec8vSKJuZTk">this</a> Youtube video, however I diverged significantly from the actual code and logic used based on myprevious coding experience with Python, reading a lot of documentation, and help from Reddit.</p>
+<p>I watched and coded along with the first part of the video, but once I started to get used to the syntax of the language I stopped watching it because I learn best by figuring out things on my own by finding solutions using Google, Code Pen, Reddit, and Stack Overflow.</p>
+</section>
+<section id="final-thoughts" class="level3">
+<h3 class="anchored" data-anchor-id="final-thoughts">Final Thoughts</h3>
+<p>I enjoyed making this game and did help me get familiar with Javascript, but I still need to do more work to actually learn the language.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>programming</category>
+  <category>javascript</category>
+  <guid>https://rachelgugler.com/projects/2022-09-20_memory-game/index.html</guid>
+  <pubDate>Tue, 20 Sep 2022 07:00:00 GMT</pubDate>
+  <media:content url="https://rachelgugler.com/projects/2022-09-20_memory-game/Memory-game.png" medium="image" type="image/png" height="128" width="144"/>
+</item>
+<item>
+  <title>Map Styles as Art</title>
+  <dc:creator>Rachel Gugler</dc:creator>
+  <link>https://rachelgugler.com/projects/2020-03-06_art-map/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://rachelgugler.com/projects/2020-03-06_art-map/PDX_Metro_ArtMap.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">An art map of the Portland Metro made with a custom style mimicking artistic pointilism</figcaption>
+</figure>
+</div>
+<p><a href="https://media.pdx.edu/media/Student+Lightning+TalksA+Rachel+Gulger+PCC%2C+Mimicking+Art+Styles+A+Beginner%27s+Workflow/0_vyyhl3fr">Recording of Lightning Talk</a></p>
+<section id="tools-used" class="level3">
+<h3 class="anchored" data-anchor-id="tools-used">Tools Used</h3>
+<ul>
+<li>ArcPro</li>
+<li>Adobe Illustrator</li>
+<li>Adobe Photoshop</li>
+</ul>
+</section>
+<section id="purpose" class="level3">
+<h3 class="anchored" data-anchor-id="purpose">Purpose</h3>
+<p>As a student at Portland Community College, my advisor recommended me for a lightning talk at the March 2020 PDX Cartography Symposium.</p>
+</section>
+<section id="methods" class="level3">
+<h3 class="anchored" data-anchor-id="methods">Methods</h3>
+<p>I was inspired by the Pointillism movement of the late 1880s. I wanted to create an ArcPro style that mimicked the individual paint strokes used by artists such as Georges Seurat and Paul Signac. At first glance I thought this would be a relatively simple step. I planned to create a seamless pattern in Photoshop and bring it into ArcPro as a fill opiton.</p>
+<p>I learned that I am not the best at making seamless tiles and after 7 “experiments” I chose to move on to trying to make an svg file in Illustrator. This also failed to work properly, so in the end I used the generic point marker in ArcPro and modified it to create different sizes of markers. I ended up using 9-10 different sizes/colors of shape markers to create dynamic variation in the map.</p>
+</section>
+<section id="final-thoughts" class="level3">
+<h3 class="anchored" data-anchor-id="final-thoughts">Final Thoughts</h3>
+<p>I really enjoyed the experimentation required for completing this project, and I learned a lot about using ArcPro, Photoshop, and Illustrator during this</p>
+
+
+</section>
+
+ ]]></description>
+  <category>cartography</category>
+  <category>ArcPro</category>
+  <category>GIS</category>
+  <category>student-project</category>
+  <guid>https://rachelgugler.com/projects/2020-03-06_art-map/index.html</guid>
+  <pubDate>Fri, 06 Mar 2020 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Remote Sensing with NAIP</title>
+  <dc:creator>Rachel Gugler</dc:creator>
+  <link>https://rachelgugler.com/projects/2020-02-16_remote-sensing1/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../projects/2020-02-16_remote-sensing1/Remote_Sensing.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://rachelgugler.com/projects/2020-02-16_remote-sensing1/Remote_Sensing.jpg" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+<!-- <a href="#" data-micromodal-trigger="mymodal" tabindex="0">
+    <figure>
+      <img src="/projects/2020-02-16_remote-sensing1/Remote_Sensing.jpg" style="width:100%;max-width:700px">
+      <figcaption>Click poster to enlarge</figcaption>
+    </figure>
+</a> -->
+<!-- 
+
+
+
+:::{.cell include=false}
+
+```{.js .cell-code .hidden startFrom="34" source-offset="-2"}
+micro = require("micromodal@0.4.10");
+
+micro.init({
+  awaitOpenAnimation: true,
+  awaitCloseAnimation: true
+});
+```
+
+:::{.cell-output .cell-output-display .hidden}
+
+:::{}
+
+:::{#ojs-cell-1-1 nodetype="declaration"}
+:::
+:::
+:::
+
+:::{.cell-output .cell-output-display .hidden}
+
+:::{}
+
+:::{#ojs-cell-1-2 nodetype="expression"}
+:::
+:::
+:::
+:::
+
+
+
+:::::: {#mymodal .modal .micromodal-slide aria-hidden="true"}
+::::: {.modal__overlay tabindex="-1" data-micromodal-close="true"}
+:::: {.modal__container role="dialog" aria-modal="true" aria-labelledby="mymodal-title"}
+
+<button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
+
+::: {#modal-1-content}
+![](/projects/remote-sensing1/Remote_Sensing.jpg)
+:::
+
+::::
+:::::
+:::::: -->
+<section id="tools-used" class="level3">
+<h3 class="anchored" data-anchor-id="tools-used">Tools Used</h3>
+<ul>
+<li>ArcPro</li>
+<li><a href="https://earthexplorer.usgs.gov/">USGS Earth Explorer</a></li>
+</ul>
+</section>
+<section id="purpose" class="level3">
+<h3 class="anchored" data-anchor-id="purpose">Purpose</h3>
+<p>This poster was created as the final project for my Remote Sensing class at <a href="https://www.pcc.edu/programs/gis/">Portland Community College</a>.</p>
+</section>
+<section id="methods" class="level3">
+<h3 class="anchored" data-anchor-id="methods">Methods</h3>
+<p>In class we went through a module where we calculated land cover change using satellite imagery. For the final project I decided to to the same using imagery from the <a href="https://naip-usdaonline.hub.arcgis.com/">National Agriculture Imagery Program</a> (NAIP) due to the better resolution.</p>
+<section id="naip" class="level4">
+<h4 class="anchored" data-anchor-id="naip">NAIP</h4>
+<p>The NAIP program aquires aerial imagery during the agricultural growing seasons in the United States and strives to cover each state every 2-3 years. The original imagery products included Red, Green, and Blue bands of imagery, and NIR imagery was added starting in 2003. This allows for the creation of Color Infrared (CIR) and Normalized Difference Vegetation Index (NDVI) products.</p>
+</section>
+</section>
+<section id="final-thoughts" class="level3">
+<h3 class="anchored" data-anchor-id="final-thoughts">Final Thoughts</h3>
+<p>Having completed this project several years ago, I’ve identified a major issue in my methodology. When we completed our module using satellite imagery, we were using Landsat U.S. Analysis Ready Data (ARD). This data has already gone through rigorous processing. NAIP imagery is still at an unprocessed level where the pixel values are Digital Numbers (DN) corresponding to the intensity of the measured value on the sensor at time of collection, but do not take into account differing lighting conditions, etc. that may impact those values.</p>
+<p>Below are links to several papers covering possible ways to normalize NAIP and aerial imagery.</p>
+</section>
+<section id="research-papers" class="level3">
+<h3 class="anchored" data-anchor-id="research-papers">Research Papers</h3>
+<ul>
+<li>Zhang H, Zimba PV, Nzewi EU. A New Pseudoinvariant Near-Infrared Threshold Method for Relative Radiometric Correction of Aerial Imagery. Remote Sensing. 2019; 11(16):1931. <a href="https://doi.org/10.3390/rs11161931">https://doi.org/10.3390/rs11161931</a></li>
+<li>Roy, David P.; Zhang, Hankui; Ju, Junchang; Gomez-Dans, Jose Luis; Lewis, Philip E.; Schaaf, Crystal Barker B.; Sun, Qingsong; Li, Jian; Huang, Haiyan; and Kovalskyy, V., “A General Method to Normalize Landsat Reflectance Data to Nadir BRDF Adjusted Reflectance” (2016). GSCE Faculty Publications. 32.<a href="http://openprairie.sdstate.edu/gsce_pubs/32">http://openprairie.sdstate.edu/gsce_pubs/32</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>student-project</category>
+  <category>remote-sensing</category>
+  <category>NAIP</category>
+  <category>ArcPro</category>
+  <category>GIS</category>
+  <guid>https://rachelgugler.com/projects/2020-02-16_remote-sensing1/index.html</guid>
+  <pubDate>Sun, 16 Feb 2020 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Portland Parks Infographic</title>
+  <dc:creator>Rachel Gugler</dc:creator>
+  <link>https://rachelgugler.com/projects/2020-02-infographic/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://rachelgugler.com/projects/2020-02-infographic/Portland_Parks_Infographic.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">An infographic displaying information about parks and maps of parks in Portland, OR</figcaption>
+</figure>
+</div>
+<section id="tools-used" class="level3">
+<h3 class="anchored" data-anchor-id="tools-used">Tools Used</h3>
+<ul>
+<li>ArcGIS Pro</li>
+<li>Adobe Illustrator</li>
+</ul>
+</section>
+<section id="purpose" class="level3">
+<h3 class="anchored" data-anchor-id="purpose">Purpose</h3>
+<p>I created this infographic in my cartography class that was part of my GIS certificate from <a href="https://www.pcc.edu/programs/gis/">Portland Community College</a>.</p>
+</section>
+<section id="methods" class="level3">
+<h3 class="anchored" data-anchor-id="methods">Methods</h3>
+<p>I created the maps using ArcPro. The assignment had a requirement for having 2 maps on the infographic. My first map shows areas that are impervious to rain, increasing flooding risks. The purpose of that map in the infographic is to show that parks are a valuable resource for permeable land for absorbing rain and other runoff.</p>
+<p>The second map shows hotspots of sightings recorded in the <a href="https://www.inaturalist.org/">iNaturalist</a> community website. Community sightings of wildlife are historically very skewed and not good identifiers of a species true range, but they are excellent for identifying hotspots of where people go to watch wildlife. The map shows the desnity of observations over a 10 year period.</p>
+<p>I included the rivers in both maps because they are a defining feature of the area.</p>
+<p>The rest of the background and diagrams were made in Adobe Illustrator either from scratch or by finding free clip art online and modifying it as needed to fit into the style of the infographic.</p>
+</section>
+<section id="final-thoughts" class="level3">
+<h3 class="anchored" data-anchor-id="final-thoughts">Final Thoughts</h3>
+<p>Looking back at this several years later, I am still happy overall. I would make different choices regarding the layout of the title and fonts used for it, and I see some slight alignment issues with other text throughout the layout, but nothing that I would consider a catastrophic failure. I really enjoyed mixing creativity with cartography for this project.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>cartography</category>
+  <category>ArcPro</category>
+  <category>GIS</category>
+  <category>student-project</category>
+  <category>illustration</category>
+  <category>Adobe-Illustrator</category>
+  <guid>https://rachelgugler.com/projects/2020-02-infographic/index.html</guid>
+  <pubDate>Sun, 02 Feb 2020 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Watercolor Style Map</title>
+  <dc:creator>Rachel Gugler</dc:creator>
+  <link>https://rachelgugler.com/projects/2019-12-02_sc-map/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://rachelgugler.com/projects/2019-12-02_sc-map/SC_Map.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">A map in a watercolor style of Beaufort County, South Carolina</figcaption>
+</figure>
+</div>
+<section id="tools-used" class="level3">
+<h3 class="anchored" data-anchor-id="tools-used">Tools Used</h3>
+<ul>
+<li>ArcPro</li>
+</ul>
+</section>
+<section id="purpose" class="level3">
+<h3 class="anchored" data-anchor-id="purpose">Purpose</h3>
+<p>I created this map as a personal project while still working through the GIS certificate at <a href="https://www.pcc.edu/programs/gis/">Portland Community College</a>.</p>
+</section>
+<section id="final-thoughts" class="level3">
+<h3 class="anchored" data-anchor-id="final-thoughts">Final Thoughts</h3>
+<p>I was very new to GIS and was exploring the design aspect of cartography by experimenting with different colors, textures, and fonts. Deciding which data types should be included, and which were too much. I was not personally familiar with this area, so it was interesting trying to pick out the important parts of an area that make it recognizable to those familiar with it without that knowledge myself.</p>
+<p>If I were to make this map now, I would do it differently. There is not really a cohesive theme that ties everything together. The colors are the ecological zones, which don’t really make sense when included with the human oriented information such as the railroad, county boundary in the ocean, and names of towns.</p>
+<p>I was proud when I made this map, as it is one of the first ones I made on my own outside of an assignment. I am glad I have it to look back at as a starting place.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>cartography</category>
+  <category>ArcPro</category>
+  <category>GIS</category>
+  <guid>https://rachelgugler.com/projects/2019-12-02_sc-map/index.html</guid>
+  <pubDate>Mon, 02 Dec 2019 08:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

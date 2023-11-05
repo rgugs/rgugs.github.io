@@ -1,0 +1,14 @@
+---
+title: "Title"
+description: "Post description"
+author: "Rachel Gugler"
+date: "2023/11/2"
+categories:
+  - gis
+  - remote-sensing
+  - coding
+  - python
+  - cartography
+  - school-project
+  - illustration
+---
