@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Rachel Gugler</title>
+<link>https://rachelgugler.com/index.html</link>
+<atom:link href="https://rachelgugler.com/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Wed, 29 Oct 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>{B4F502887207:/projects/2025-10-29_foss4gna_graph_map/index.html}</title>
+  <dc:creator>Rachel Gugler</dc:creator>
+  <link>https://rachelgugler.com/projects/2025-10-29_foss4gna_graph_map/index.html</link>
+  <description>{B4F502887207:/projects/2025-10-29_foss4gna_graph_map/index.html}</description>
+  <category>coding</category>
+  <category>python</category>
+  <category>open source</category>
+  <category>AI</category>
+  <guid>https://rachelgugler.com/projects/2025-10-29_foss4gna_graph_map/index.html</guid>
+  <pubDate>Wed, 29 Oct 2025 07:00:00 GMT</pubDate>
+  <media:content url="https://rachelgugler.com/projects/2025-10-29_foss4gna_graph_map/Graph_map.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/projects/2023-10-22_qr-code/index.html}</title>
+  <dc:creator>Rachel Gugler</dc:creator>
+  <link>https://rachelgugler.com/projects/2023-10-22_qr-code/index.html</link>
+  <description>{B4F502887207:/projects/2023-10-22_qr-code/index.html}</description>
+  <category>coding</category>
+  <category>python</category>
+  <category>open source</category>
+  <guid>https://rachelgugler.com/projects/2023-10-22_qr-code/index.html</guid>
+  <pubDate>Sun, 22 Oct 2023 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/projects/2022-09-20_memory-game/index.html}</title>
+  <dc:creator>Rachel Gugler</dc:creator>
+  <link>https://rachelgugler.com/projects/2022-09-20_memory-game/index.html</link>
+  <description>{B4F502887207:/projects/2022-09-20_memory-game/index.html}</description>
+  <category>coding</category>
+  <category>javascript</category>
+  <category>open source</category>
+  <guid>https://rachelgugler.com/projects/2022-09-20_memory-game/index.html</guid>
+  <pubDate>Tue, 20 Sep 2022 07:00:00 GMT</pubDate>
+  <media:content url="https://rachelgugler.com/projects/2022-09-20_memory-game/Memory-game.png" medium="image" type="image/png" height="128" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/projects/2020-03-06_art-map/index.html}</title>
+  <dc:creator>Rachel Gugler</dc:creator>
+  <link>https://rachelgugler.com/projects/2020-03-06_art-map/index.html</link>
+  <description>{B4F502887207:/projects/2020-03-06_art-map/index.html}</description>
+  <category>cartography</category>
+  <category>ArcPro</category>
+  <category>GIS</category>
+  <category>student-project</category>
+  <guid>https://rachelgugler.com/projects/2020-03-06_art-map/index.html</guid>
+  <pubDate>Fri, 06 Mar 2020 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/projects/2020-02-16_remote-sensing1/index.html}</title>
+  <dc:creator>Rachel Gugler</dc:creator>
+  <link>https://rachelgugler.com/projects/2020-02-16_remote-sensing1/index.html</link>
+  <description>{B4F502887207:/projects/2020-02-16_remote-sensing1/index.html}</description>
+  <category>student-project</category>
+  <category>remote-sensing</category>
+  <category>NAIP</category>
+  <category>ArcPro</category>
+  <category>GIS</category>
+  <guid>https://rachelgugler.com/projects/2020-02-16_remote-sensing1/index.html</guid>
+  <pubDate>Sun, 16 Feb 2020 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/projects/2020-02-infographic/index.html}</title>
+  <dc:creator>Rachel Gugler</dc:creator>
+  <link>https://rachelgugler.com/projects/2020-02-infographic/index.html</link>
+  <description>{B4F502887207:/projects/2020-02-infographic/index.html}</description>
+  <category>cartography</category>
+  <category>ArcPro</category>
+  <category>GIS</category>
+  <category>student-project</category>
+  <category>illustration</category>
+  <category>Adobe-Illustrator</category>
+  <guid>https://rachelgugler.com/projects/2020-02-infographic/index.html</guid>
+  <pubDate>Sun, 02 Feb 2020 08:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
