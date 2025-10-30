@@ -12,13 +12,13 @@ website:
   favicon: img/favicon.png
 
   cookie-consent:
-    type: implied
+    type: express
     style: simple
   google-analytics: 
     tracking-id: "G-F93HKJ0ESX"
-    storage: cookies
+    storage: none
   page-footer: 
-    center: "©2023 Rachel Gugler using [Quarto](https://quarto.org/)"
+    center: "©2025 Rachel Gugler using [Quarto](https://quarto.org/)"
 
   search:
     location: navbar

@@ -23,6 +23,8 @@ Thanks for visiting my portfolio website! I started development on this version 
 
 # Professional Interests
 
+* Remote Sensing
+* Wildland Fire
 * Geospatial programming
 * Python
 * Geospatial Data Analysis

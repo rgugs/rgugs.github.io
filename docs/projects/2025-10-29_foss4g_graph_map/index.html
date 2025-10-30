@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Rachel Gugler">
-<meta name="dcterms.date" content="2019-12-02">
+<meta name="dcterms.date" content="2025-10-29">
 
-<title>Rachel Gugler - Watercolor Style Map</title>
+<title>Rachel Gugler - Making a 2025 FOSS4GNA Graph Map</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -71,6 +71,11 @@ ul.task-list li input[type="checkbox"] {
 window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
+ 
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'analytics_storage': 'denied'
+  });
 gtag('config', 'G-F93HKJ0ESX', { 'anonymize_ip': true});
 </script>
 
@@ -78,10 +83,10 @@ gtag('config', 'G-F93HKJ0ESX', { 'anonymize_ip': true});
 document.addEventListener('DOMContentLoaded', function () {
 cookieconsent.run({
   "notice_banner_type":"simple",
-  "consent_type":"implied",
+  "consent_type":"express",
   "palette":"light",
   "language":"en",
-  "page_load_consent_levels":["strictly-necessary","functionality","tracking","targeting"],
+  "page_load_consent_levels":["strictly-necessary"],
   "notice_banner_reject_button_hide":false,
   "preferences_center_close_button_hide":false,
   "website_name":""
@@ -146,11 +151,10 @@ cookieconsent.run({
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Watercolor Style Map</h1>
+      <h1 class="title">Making a 2025 FOSS4GNA Graph Map</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">cartography</div>
-                <div class="quarto-category">ArcPro</div>
-                <div class="quarto-category">GIS</div>
+                <div class="quarto-category">coding</div>
+                <div class="quarto-category">python</div>
               </div>
                   </div>
   </div>
@@ -168,7 +172,7 @@ cookieconsent.run({
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">December 2, 2019</p>
+        <p class="date">October 29, 2025</p>
       </div>
     </div>
     
@@ -180,15 +184,7 @@ cookieconsent.run({
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#tools-used" id="toc-tools-used" class="nav-link active" data-scroll-target="#tools-used">Tools Used</a></li>
-  <li><a href="#purpose" id="toc-purpose" class="nav-link" data-scroll-target="#purpose">Purpose</a></li>
-  <li><a href="#final-thoughts" id="toc-final-thoughts" class="nav-link" data-scroll-target="#final-thoughts">Final Thoughts</a></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
@@ -196,30 +192,13 @@ cookieconsent.run({
 
 
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="../..\projects/2019-12-02_sc-map/SC_Map.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">A map in a watercolor style of Beaufort County, South Carolina</figcaption>
-</figure>
-</div>
-<section id="tools-used" class="level3">
-<h3 class="anchored" data-anchor-id="tools-used">Tools Used</h3>
-<ul>
-<li>ArcPro</li>
-</ul>
-</section>
-<section id="purpose" class="level3">
-<h3 class="anchored" data-anchor-id="purpose">Purpose</h3>
-<p>I created this map as a personal project while still working through the GIS certificate at <a href="https://www.pcc.edu/programs/gis/">Portland Community College</a>.</p>
-</section>
-<section id="final-thoughts" class="level3">
-<h3 class="anchored" data-anchor-id="final-thoughts">Final Thoughts</h3>
-<p>I was very new to GIS and was exploring the design aspect of cartography by experimenting with different colors, textures, and fonts. Deciding which data types should be included, and which were too much. I was not personally familiar with this area, so it was interesting trying to pick out the important parts of an area that make it recognizable to those familiar with it without that knowledge myself.</p>
-<p>If I were to make this map now, I would do it differently. There is not really a cohesive theme that ties everything together. The colors are the ecological zones, which don’t really make sense when included with the human oriented information such as the railroad, county boundary in the ocean, and names of towns.</p>
-<p>I was proud when I made this map, as it is one of the first ones I made on my own outside of an assignment. I am glad I have it to look back at as a starting place.</p>
+<p><a href="https://github.com/rgugs/foss4gna2025-graph"><button type="button" class="btn btn-secondary btn-sm"><i class="bi bi-github"></i> View Source Code</button></a></p>
+<p>Check out the the README on Github for the full project explanation.</p>
+<p>There are over 120 and workshops and talks at the 2025 FOSS4GNA Conference in Reston, VA (November 3-5), and the system limits submitting talk and workshops into a single track when they often fit multiple tracks. I wanted a better understanding of the options, so I decided to do some extra visualization. This was also my first time using Claude AI. It definitely sped up the data preparation. For a higher stakes project I would definitely do more QC on the data from the amount of wrangling I had to do with the Python code, but being that this is a low risk situation to not do that, I didn’t do very much data QC.</p>
+<iframe src="forcedatlas_conference_graph.html" width="100%" height="800px" style="border:none;">
+</iframe>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -475,7 +454,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">
       &nbsp;
     </div>   
-    <div class="nav-footer-center">©2023 Rachel Gugler using <a href="https://quarto.org/">Quarto</a><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="nav-footer-center">©2025 Rachel Gugler using <a href="https://quarto.org/">Quarto</a><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
