@@ -184,7 +184,16 @@ cookieconsent.run({
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#filters" id="toc-filters" class="nav-link active" data-scroll-target="#filters">Filters</a></li>
+  <li><a href="#date" id="toc-date" class="nav-link" data-scroll-target="#date">Date</a></li>
+  <li><a href="#tracks" id="toc-tracks" class="nav-link" data-scroll-target="#tracks">Tracks</a></li>
+  <li><a href="#tags" id="toc-tags" class="nav-link" data-scroll-target="#tags">Tags</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
@@ -194,11 +203,27 @@ cookieconsent.run({
 
 <p><a href="https://github.com/rgugs/foss4gna2025-graph"><button type="button" class="btn btn-secondary btn-sm"><i class="bi bi-github"></i> View Source Code</button></a></p>
 <p>Check out the the README on Github for the full project explanation.</p>
-<p>There are over 120 and workshops and talks at the 2025 FOSS4GNA Conference in Reston, VA (November 3-5), and the system limits submitting talk and workshops into a single track when they often fit multiple tracks. I wanted a better understanding of the options, so I decided to do some extra visualization. This was also my first time using Claude AI. It definitely sped up the data preparation. For a higher stakes project I would definitely do more QC on the data from the amount of wrangling I had to do with the Python code, but being that this is a low risk situation to not do that, I didn’t do very much data QC.</p>
+<p>There are over 120 and workshops and talks at the 2025 FOSS4GNA Conference in Reston, VA (November 3-5), and the content system limits submitting talk and workshops into a single track when they often fit multiple tracks. I wanted a better understanding of the options, so I decided to do some extra visualization. This was also my first time using Claude AI for coding.</p>
+<section id="filters" class="level2">
+<h2 class="anchored" data-anchor-id="filters">Filters</h2>
+<p>While pretty, the number of options is overwhelming for useful visualization. The filters allow you to narrow down the visible talks/presentations. This graph doesn’t include the times of the talks, so you’ll need to go to https://www.foss4gna.org/schedule or search on the Whova app to find the times.</p>
+</section>
+<section id="date" class="level2">
+<h2 class="anchored" data-anchor-id="date">Date</h2>
+<p>The conference runs November 3-5. The workshops are all on November 3rd, and the 4th and 5th are all talks. Use this filter to filter by day.</p>
+</section>
+<section id="tracks" class="level2">
+<h2 class="anchored" data-anchor-id="tracks">Tracks</h2>
+<p>There are designated tracks, including GeoAI/ML, Data Management &amp; Interoperability, Use Cases &amp; Applications, etc. These are the official tracks of the talks and can be used to narrow down the schedule view on the main</p>
+</section>
+<section id="tags" class="level2">
+<h2 class="anchored" data-anchor-id="tags">Tags</h2>
+<p>When applying to present, you can only choose a single track, however there may be multiple tracks applicable for that talk/workshop. Thi</p>
 <iframe src="forcedatlas_conference_graph.html" width="100%" height="800px" style="border:none;">
 </iframe>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

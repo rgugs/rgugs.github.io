@@ -4,7 +4,35 @@
     "href": "projects/2025-10-29_foss4g_graph_map/index.html",
     "title": "Making a 2025 FOSS4GNA Graph Map",
     "section": "",
-    "text": "View Source Code\nCheck out the the README on Github for the full project explanation.\nThere are over 120 and workshops and talks at the 2025 FOSS4GNA Conference in Reston, VA (November 3-5), and the system limits submitting talk and workshops into a single track when they often fit multiple tracks. I wanted a better understanding of the options, so I decided to do some extra visualization. This was also my first time using Claude AI. It definitely sped up the data preparation. For a higher stakes project I would definitely do more QC on the data from the amount of wrangling I had to do with the Python code, but being that this is a low risk situation to not do that, I didn’t do very much data QC."
+    "text": "View Source Code\nCheck out the the README on Github for the full project explanation.\nThere are over 120 and workshops and talks at the 2025 FOSS4GNA Conference in Reston, VA (November 3-5), and the content system limits submitting talk and workshops into a single track when they often fit multiple tracks. I wanted a better understanding of the options, so I decided to do some extra visualization. This was also my first time using Claude AI for coding."
+  },
+  {
+    "objectID": "projects/2025-10-29_foss4g_graph_map/index.html#filters",
+    "href": "projects/2025-10-29_foss4g_graph_map/index.html#filters",
+    "title": "Making a 2025 FOSS4GNA Graph Map",
+    "section": "Filters",
+    "text": "Filters\nWhile pretty, the number of options is overwhelming for useful visualization. The filters allow you to narrow down the visible talks/presentations. This graph doesn’t include the times of the talks, so you’ll need to go to https://www.foss4gna.org/schedule or search on the Whova app to find the times."
+  },
+  {
+    "objectID": "projects/2025-10-29_foss4g_graph_map/index.html#date",
+    "href": "projects/2025-10-29_foss4g_graph_map/index.html#date",
+    "title": "Making a 2025 FOSS4GNA Graph Map",
+    "section": "Date",
+    "text": "Date\nThe conference runs November 3-5. The workshops are all on November 3rd, and the 4th and 5th are all talks. Use this filter to filter by day."
+  },
+  {
+    "objectID": "projects/2025-10-29_foss4g_graph_map/index.html#tracks",
+    "href": "projects/2025-10-29_foss4g_graph_map/index.html#tracks",
+    "title": "Making a 2025 FOSS4GNA Graph Map",
+    "section": "Tracks",
+    "text": "Tracks\nThere are designated tracks, including GeoAI/ML, Data Management & Interoperability, Use Cases & Applications, etc. These are the official tracks of the talks and can be used to narrow down the schedule view on the main"
+  },
+  {
+    "objectID": "projects/2025-10-29_foss4g_graph_map/index.html#tags",
+    "href": "projects/2025-10-29_foss4g_graph_map/index.html#tags",
+    "title": "Making a 2025 FOSS4GNA Graph Map",
+    "section": "Tags",
+    "text": "Tags\nWhen applying to present, you can only choose a single track, however there may be multiple tracks applicable for that talk/workshop. Thi"
   },
   {
     "objectID": "projects/2022-09-20_memory-game/index.html",
@@ -32,7 +60,7 @@
     "href": "index.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nMaking a 2025 FOSS4GNA Graph Map\n\n\n1 min\n\n\n\ncoding\n\n\npython\n\n\n\n\nOct 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQR Code Generation\n\n\n1 min\n\n\n\nprogramming\n\n\npython\n\n\n\n\nOct 22, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJavascript Memory Game\n\n\n1 min\n\n\n\nprogramming\n\n\njavascript\n\n\n\n\nSep 20, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nMap Styles as Art\n\n\n2 min\n\n\n\ncartography\n\n\nArcPro\n\n\nGIS\n\n\nstudent-project\n\n\n\n\nMar 6, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nRemote Sensing with NAIP\n\n\n2 min\n\n\n\nstudent-project\n\n\nremote-sensing\n\n\nNAIP\n\n\nArcPro\n\n\nGIS\n\n\n\n\nFeb 16, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nPortland Parks Infographic\n\n\n2 min\n\n\n\ncartography\n\n\nArcPro\n\n\nGIS\n\n\nstudent-project\n\n\nillustration\n\n\nAdobe-Illustrator\n\n\n\n\nFeb 2, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nMaking a 2025 FOSS4GNA Graph Map\n\n\n2 min\n\n\n\ncoding\n\n\npython\n\n\n\n\nOct 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQR Code Generation\n\n\n1 min\n\n\n\nprogramming\n\n\npython\n\n\n\n\nOct 22, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJavascript Memory Game\n\n\n1 min\n\n\n\nprogramming\n\n\njavascript\n\n\n\n\nSep 20, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nMap Styles as Art\n\n\n2 min\n\n\n\ncartography\n\n\nArcPro\n\n\nGIS\n\n\nstudent-project\n\n\n\n\nMar 6, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nRemote Sensing with NAIP\n\n\n2 min\n\n\n\nstudent-project\n\n\nremote-sensing\n\n\nNAIP\n\n\nArcPro\n\n\nGIS\n\n\n\n\nFeb 16, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nPortland Parks Infographic\n\n\n2 min\n\n\n\ncartography\n\n\nArcPro\n\n\nGIS\n\n\nstudent-project\n\n\nillustration\n\n\nAdobe-Illustrator\n\n\n\n\nFeb 2, 2020\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "aboutme.html",
