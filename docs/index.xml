@@ -20,7 +20,7 @@
 
 
 
-<p><img src="https://rachelgugler.com/projects/2025-10-29_foss4g_graph_map/FOSS4G_NA_2025_header.jpg" class="img-fluid"></p>
+<p><img src="https://rachelgugler.com/projects/2025-10-29_foss4gna_graph_map/FOSS4G_NA_2025_header.jpg" class="img-fluid"></p>
 <p><a href="https://www.foss4gna.org/">https://www.foss4gna.org/</a></p>
 <p><a href="https://github.com/rgugs/foss4gna2025-graph"><button type="button" class="btn btn-secondary btn-sm"><i class="bi bi-github"></i> View Source Code</button></a></p>
 <p>Check out the the README on Github for the full project explanation.</p>
@@ -53,7 +53,7 @@
   <category>AI</category>
   <guid>https://rachelgugler.com/projects/2025-10-29_foss4gna_graph_map/index.html</guid>
   <pubDate>Wed, 29 Oct 2025 07:00:00 GMT</pubDate>
-  <media:content url="https://rachelgugler.com/projects/2025-10-29_foss4g_graph_map/Graph_map.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://rachelgugler.com/projects/2025-10-29_foss4gna_graph_map/Graph_map.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>QR Code Generation</title>

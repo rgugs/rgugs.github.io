@@ -2,7 +2,7 @@
 title: "Making a 2025 FOSS4GNA Graph Map"
 author: "Rachel Gugler"
 date: "2025/10/29"
-image: "/projects/2025-10-29_foss4g_graph_map/Graph_map.jpg"
+image: "/projects/2025-10-29_foss4gna_graph_map/Graph_map.jpg"
 categories:
   - coding
   - python
@@ -10,7 +10,7 @@ categories:
   - AI
 ---
 
-![](/projects/2025-10-29_foss4g_graph_map/FOSS4G_NA_2025_header.jpg)
+![](/projects/2025-10-29_foss4gna_graph_map/FOSS4G_NA_2025_header.jpg)
 
 [https://www.foss4gna.org/](https://www.foss4gna.org/)
 
