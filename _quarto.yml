@@ -43,6 +43,8 @@ website:
 
 format:
   html:
+    grid:
+      body-width: 1500px
     # smooth-scroll: true
     fontsize: 1.1em
     theme: 
