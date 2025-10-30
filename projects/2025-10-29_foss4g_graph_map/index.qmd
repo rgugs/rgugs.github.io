@@ -23,11 +23,11 @@ The conference runs November 3-5. The workshops are all on November 3rd, and the
 
 ## Tracks
 
-There are designated tracks, including GeoAI/ML, Data Management & Interoperability, Use Cases & Applications, etc. These are the official tracks of the talks and can be used to narrow down the schedule view on the main 
+There are designated tracks, including GeoAI/ML, Data Management & Interoperability, Use Cases & Applications, etc. These are the official tracks of the talks and can be used to narrow down the schedule view on the official FOSS4GNA Schedule. Selecting this filter will only show the talks/workshops included in the selected track. To see other presentations that may aslo fit in this category, use the Tags filter instead. 
 
 ## Tags
 
-When applying to present, you can only choose a single track, however there may be multiple tracks applicable for that talk/workshop. Thi
+When applying to present, you can only choose a single track, however there may be multiple tracks applicable for that talk/workshop. Claude AI was used to analyze the submitted descriptions and abstracts and applied up to 3 other possible tracks as tags. Use the Tags filter to find presentations in your desired topic that aren't included in that specific track.
 
 <iframe src="forcedatlas_conference_graph.html" width="100%" height="800px" style="border:none;"></iframe>
 
