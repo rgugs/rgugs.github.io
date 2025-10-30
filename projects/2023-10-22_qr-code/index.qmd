@@ -3,8 +3,9 @@ title: "QR Code Generation"
 author: "Rachel Gugler"
 date: "2023/10/22"
 categories:
-    - programming
+    - coding
     - python
+    - open source
 ---
 <a href="https://github.com/rgugs/qr-code-maker"><button type="button" class="btn btn-secondary btn-sm"><i class="bi bi-github"></i> View Source Code</button></a>
 

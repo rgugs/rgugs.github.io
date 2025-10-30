@@ -4,14 +4,14 @@
     "href": "projects/2025-10-29_foss4g_graph_map/index.html",
     "title": "Making a 2025 FOSS4GNA Graph Map",
     "section": "",
-    "text": "View Source Code\nCheck out the the README on Github for the full project explanation.\nThere are over 120 and workshops and talks at the 2025 FOSS4GNA Conference in Reston, VA (November 3-5), and the content system limits submitting talk and workshops into a single track when they often fit multiple tracks. I wanted a better understanding of the options, so I decided to do some extra visualization. This was also my first time using Claude AI for coding."
+    "text": "https://www.foss4gna.org/\nView Source Code\nCheck out the the README on Github for the full project explanation.\nThere are over 120 and workshops and talks at the 2025 FOSS4GNA Conference in Reston, VA (November 3-5), and the content system limits submitting talk and workshops into a single track when they often fit multiple tracks. I wanted a better understanding of the options, so I decided to do some extra visualization. This was also my first time using Claude AI for coding."
   },
   {
     "objectID": "projects/2025-10-29_foss4g_graph_map/index.html#filters",
     "href": "projects/2025-10-29_foss4g_graph_map/index.html#filters",
     "title": "Making a 2025 FOSS4GNA Graph Map",
     "section": "Filters",
-    "text": "Filters\nWhile pretty, the number of options is overwhelming for useful visualization. The filters allow you to narrow down the visible talks/presentations. This graph doesn’t include the times of the talks, so you’ll need to go to https://www.foss4gna.org/schedule or search on the Whova app to find the times."
+    "text": "Filters\nWhile pretty, the number of options is overwhelming for useful visualization. The filters allow you to narrow down the visible talks/presentations. This graph doesn’t include the times of the talks, so you’ll need to check times in the Whova app or go to https://www.foss4gna.org/schedule."
   },
   {
     "objectID": "projects/2025-10-29_foss4g_graph_map/index.html#date",
@@ -60,7 +60,7 @@
     "href": "index.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nMaking a 2025 FOSS4GNA Graph Map\n\n\n2 min\n\n\n\ncoding\n\n\npython\n\n\n\n\nOct 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQR Code Generation\n\n\n1 min\n\n\n\nprogramming\n\n\npython\n\n\n\n\nOct 22, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJavascript Memory Game\n\n\n1 min\n\n\n\nprogramming\n\n\njavascript\n\n\n\n\nSep 20, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nMap Styles as Art\n\n\n2 min\n\n\n\ncartography\n\n\nArcPro\n\n\nGIS\n\n\nstudent-project\n\n\n\n\nMar 6, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nRemote Sensing with NAIP\n\n\n2 min\n\n\n\nstudent-project\n\n\nremote-sensing\n\n\nNAIP\n\n\nArcPro\n\n\nGIS\n\n\n\n\nFeb 16, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nPortland Parks Infographic\n\n\n2 min\n\n\n\ncartography\n\n\nArcPro\n\n\nGIS\n\n\nstudent-project\n\n\nillustration\n\n\nAdobe-Illustrator\n\n\n\n\nFeb 2, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nMaking a 2025 FOSS4GNA Graph Map\n\n\n2 min\n\n\n\ncoding\n\n\npython\n\n\nopen source\n\n\nAI\n\n\n\n\nOct 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQR Code Generation\n\n\n1 min\n\n\n\ncoding\n\n\npython\n\n\nopen source\n\n\n\n\nOct 22, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJavascript Memory Game\n\n\n1 min\n\n\n\ncoding\n\n\njavascript\n\n\nopen source\n\n\n\n\nSep 20, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nMap Styles as Art\n\n\n2 min\n\n\n\ncartography\n\n\nArcPro\n\n\nGIS\n\n\nstudent-project\n\n\n\n\nMar 6, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nRemote Sensing with NAIP\n\n\n2 min\n\n\n\nstudent-project\n\n\nremote-sensing\n\n\nNAIP\n\n\nArcPro\n\n\nGIS\n\n\n\n\nFeb 16, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nPortland Parks Infographic\n\n\n2 min\n\n\n\ncartography\n\n\nArcPro\n\n\nGIS\n\n\nstudent-project\n\n\nillustration\n\n\nAdobe-Illustrator\n\n\n\n\nFeb 2, 2020\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "aboutme.html",

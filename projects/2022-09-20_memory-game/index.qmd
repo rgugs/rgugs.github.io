@@ -4,8 +4,9 @@ author: "Rachel Gugler"
 date: "2022/09/20"
 image: "/projects/2022-09-20_memory-game/Memory-game.png"
 categories:
-    - programming
+    - coding
     - javascript
+    - open source
 ---
 
 ## Under Construction
