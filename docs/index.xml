@@ -108,65 +108,6 @@
   <pubDate>Sun, 22 Oct 2023 07:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Javascript Memory Game</title>
-  <dc:creator>Rachel Gugler</dc:creator>
-  <link>https://rachelgugler.com/projects/2022-09-20_memory-game/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="under-construction" class="level2">
-<h2 class="anchored" data-anchor-id="under-construction">Under Construction</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://rachelgugler.com/img/under-construction.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Under construction sign</figcaption>
-</figure>
-</div>
-<p>I recently moved my website from a vanilla HTML, CSS, and Javascript website to the Quarto Static Site Generator. I have not migrated this project to work on this website yet. Check back for updates soon, but until then, here is a screenshot of the board.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://rachelgugler.com/projects/2022-09-20_memory-game/Memory-game.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">A memory game built using javascript with dinosaur images.</figcaption>
-</figure>
-</div>
-<p><a href="https://www.vecteezy.com/free-vector/dinosaur-clipart">Dinosaur Clipart Vectors by Vecteezy</a></p>
-<section id="tools-used" class="level3">
-<h3 class="anchored" data-anchor-id="tools-used">Tools Used</h3>
-<ul>
-<li>VS Code</li>
-<li>HTML</li>
-<li>Vanilla Javascript</li>
-<li>CSS</li>
-</ul>
-</section>
-<section id="purpose" class="level3">
-<h3 class="anchored" data-anchor-id="purpose">Purpose</h3>
-<p>I was already relatively familiar with HTML and CSS, so I decided to start learning Javascript through making games.</p>
-</section>
-<section id="methods" class="level3">
-<h3 class="anchored" data-anchor-id="methods">Methods</h3>
-<p>This project is based off <a href="https://youtu.be/ec8vSKJuZTk">this</a> Youtube video, however I diverged significantly from the actual code and logic used based on myprevious coding experience with Python, reading a lot of documentation, and help from Reddit.</p>
-<p>I watched and coded along with the first part of the video, but once I started to get used to the syntax of the language I stopped watching it because I learn best by figuring out things on my own by finding solutions using Google, Code Pen, Reddit, and Stack Overflow.</p>
-</section>
-<section id="final-thoughts" class="level3">
-<h3 class="anchored" data-anchor-id="final-thoughts">Final Thoughts</h3>
-<p>I enjoyed making this game and did help me get familiar with Javascript, but I still need to do more work to actually learn the language.</p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>coding</category>
-  <category>javascript</category>
-  <category>open source</category>
-  <guid>https://rachelgugler.com/projects/2022-09-20_memory-game/index.html</guid>
-  <pubDate>Tue, 20 Sep 2022 07:00:00 GMT</pubDate>
-  <media:content url="https://rachelgugler.com/projects/2022-09-20_memory-game/Memory-game.png" medium="image" type="image/png" height="128" width="144"/>
-</item>
-<item>
   <title>Map Styles as Art</title>
   <dc:creator>Rachel Gugler</dc:creator>
   <link>https://rachelgugler.com/projects/2020-03-06_art-map/index.html</link>

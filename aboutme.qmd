@@ -11,15 +11,15 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/rachel-gugler/ 
-    - icon: instagram
-      text: Instagram
-      href: https://www.instagram.com/a_meandering_life/
+    # - icon: instagram
+    #   text: Instagram
+    #   href: https://www.instagram.com/a_meandering_life/
 ---
 
 ::: {#about-block}
 :::
 
-Thanks for visiting my portfolio website! I started development on this version of my portfolio website on 2023-10-22 and still have some work to do, but it is coming along. Please come back soon and check out the updates!
+My background includes wildlife and fisheries ecology, wildland firefighting, and geomatics. I currently work in remote sensing as a sensor operator in manned aircraft over wildland fires. I am expanding my Python programming skills and recently started learning C as well. 
 
 # Professional Interests
 
@@ -35,6 +35,7 @@ Thanks for visiting my portfolio website! I started development on this version 
 # Personal Interests
 
 * Reading
+* Sewing
 * SCUBA diving
 * Travel
 * Language learning
