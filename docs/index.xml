@@ -6,16 +6,17 @@
       version="2.0">
 <channel>
 <title>Rachel Gugler</title>
-<link>https://rachelgugler.com/index.html</link>
+<link>https://rachelgugler.com/</link>
 <atom:link href="https://rachelgugler.com/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.3.450</generator>
-<lastBuildDate>Wed, 29 Oct 2025 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Wed, 29 Oct 2025 06:00:00 GMT</lastBuildDate>
 <item>
   <title>Making a 2025 FOSS4GNA Graph Map</title>
   <dc:creator>Rachel Gugler</dc:creator>
-  <link>https://rachelgugler.com/projects/2025-10-29_foss4gna_graph_map/index.html</link>
+  <link>https://rachelgugler.com/projects/2025-10-29_foss4gna_graph_map/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -51,15 +52,16 @@
   <category>python</category>
   <category>open source</category>
   <category>AI</category>
-  <guid>https://rachelgugler.com/projects/2025-10-29_foss4gna_graph_map/index.html</guid>
-  <pubDate>Wed, 29 Oct 2025 07:00:00 GMT</pubDate>
+  <guid>https://rachelgugler.com/projects/2025-10-29_foss4gna_graph_map/</guid>
+  <pubDate>Wed, 29 Oct 2025 06:00:00 GMT</pubDate>
   <media:content url="https://rachelgugler.com/projects/2025-10-29_foss4gna_graph_map/Graph_map.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>QR Code Generation</title>
   <dc:creator>Rachel Gugler</dc:creator>
-  <link>https://rachelgugler.com/projects/2023-10-22_qr-code/index.html</link>
+  <link>https://rachelgugler.com/projects/2023-10-22_qr-code/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -88,7 +90,7 @@
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://rachelgugler.com/projects/2023-10-22_qr-code/website_qrcode.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Blue QR code leading to the current website</figcaption>
+<figcaption>Blue QR code leading to the current website</figcaption>
 </figure>
 </div>
 </section>
@@ -104,14 +106,15 @@
   <category>coding</category>
   <category>python</category>
   <category>open source</category>
-  <guid>https://rachelgugler.com/projects/2023-10-22_qr-code/index.html</guid>
-  <pubDate>Sun, 22 Oct 2023 07:00:00 GMT</pubDate>
+  <guid>https://rachelgugler.com/projects/2023-10-22_qr-code/</guid>
+  <pubDate>Sun, 22 Oct 2023 06:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Map Styles as Art</title>
   <dc:creator>Rachel Gugler</dc:creator>
-  <link>https://rachelgugler.com/projects/2020-03-06_art-map/index.html</link>
+  <link>https://rachelgugler.com/projects/2020-03-06_art-map/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -119,7 +122,7 @@
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://rachelgugler.com/projects/2020-03-06_art-map/PDX_Metro_ArtMap.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">An art map of the Portland Metro made with a custom style mimicking artistic pointilism</figcaption>
+<figcaption>An art map of the Portland Metro made with a custom style mimicking artistic pointilism</figcaption>
 </figure>
 </div>
 <p><a href="https://media.pdx.edu/media/Student+Lightning+TalksA+Rachel+Gulger+PCC%2C+Mimicking+Art+Styles+A+Beginner%27s+Workflow/0_vyyhl3fr">Recording of Lightning Talk</a></p>
@@ -152,36 +155,31 @@
   <category>ArcPro</category>
   <category>GIS</category>
   <category>student-project</category>
-  <guid>https://rachelgugler.com/projects/2020-03-06_art-map/index.html</guid>
-  <pubDate>Fri, 06 Mar 2020 08:00:00 GMT</pubDate>
+  <guid>https://rachelgugler.com/projects/2020-03-06_art-map/</guid>
+  <pubDate>Fri, 06 Mar 2020 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Remote Sensing with NAIP</title>
   <dc:creator>Rachel Gugler</dc:creator>
-  <link>https://rachelgugler.com/projects/2020-02-16_remote-sensing1/index.html</link>
+  <link>https://rachelgugler.com/projects/2020-02-16_remote-sensing1/</link>
   <description><![CDATA[ 
 
 
 
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="../../projects/2020-02-16_remote-sensing1/Remote_Sensing.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://rachelgugler.com/projects/2020-02-16_remote-sensing1/Remote_Sensing.jpg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
+
+<p><a href="../../projects/2020-02-16_remote-sensing1/Remote_Sensing.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://rachelgugler.com/projects/2020-02-16_remote-sensing1/Remote_Sensing.jpg" class="img-fluid"></a></p>
 <!-- <a href="#" data-micromodal-trigger="mymodal" tabindex="0">
     <figure>
       <img src="/projects/2020-02-16_remote-sensing1/Remote_Sensing.jpg" style="width:100%;max-width:700px">
       <figcaption>Click poster to enlarge</figcaption>
     </figure>
 </a> -->
-<!-- 
+<!--
 
+::::::{.cell include=false}
 
-
-:::{.cell include=false}
-
-```{.js .cell-code .hidden startFrom="34" source-offset="-2"}
+```{.js .cell-code .hidden startFrom="32" source-offset="-2"}
 micro = require("micromodal@0.4.10");
 
 micro.init({
@@ -190,26 +188,24 @@ micro.init({
 });
 ```
 
-:::{.cell-output .cell-output-display .hidden}
+:::::{.cell-output .cell-output-display .hidden}
 
-:::{}
+::::{}
 
 :::{#ojs-cell-1-1 nodetype="declaration"}
 :::
-:::
-:::
+::::
+:::::
 
-:::{.cell-output .cell-output-display .hidden}
+:::::{.cell-output .cell-output-display .hidden}
 
-:::{}
+::::{}
 
 :::{#ojs-cell-1-2 nodetype="expression"}
 :::
-:::
-:::
-:::
-
-
+::::
+:::::
+::::::
 
 :::::: {#mymodal .modal .micromodal-slide aria-hidden="true"}
 ::::: {.modal__overlay tabindex="-1" data-micromodal-close="true"}
@@ -264,14 +260,15 @@ micro.init({
   <category>NAIP</category>
   <category>ArcPro</category>
   <category>GIS</category>
-  <guid>https://rachelgugler.com/projects/2020-02-16_remote-sensing1/index.html</guid>
-  <pubDate>Sun, 16 Feb 2020 08:00:00 GMT</pubDate>
+  <guid>https://rachelgugler.com/projects/2020-02-16_remote-sensing1/</guid>
+  <pubDate>Sun, 16 Feb 2020 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Portland Parks Infographic</title>
   <dc:creator>Rachel Gugler</dc:creator>
-  <link>https://rachelgugler.com/projects/2020-02-infographic/index.html</link>
+  <link>https://rachelgugler.com/projects/2020-02-infographic/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -279,7 +276,7 @@ micro.init({
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://rachelgugler.com/projects/2020-02-infographic/Portland_Parks_Infographic.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">An infographic displaying information about parks and maps of parks in Portland, OR</figcaption>
+<figcaption>An infographic displaying information about parks and maps of parks in Portland, OR</figcaption>
 </figure>
 </div>
 <section id="tools-used" class="level3">
@@ -314,8 +311,8 @@ micro.init({
   <category>student-project</category>
   <category>illustration</category>
   <category>Adobe-Illustrator</category>
-  <guid>https://rachelgugler.com/projects/2020-02-infographic/index.html</guid>
-  <pubDate>Sun, 02 Feb 2020 08:00:00 GMT</pubDate>
+  <guid>https://rachelgugler.com/projects/2020-02-infographic/</guid>
+  <pubDate>Sun, 02 Feb 2020 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
