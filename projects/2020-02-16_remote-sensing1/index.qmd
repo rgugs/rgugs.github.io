@@ -8,8 +8,6 @@ categories:
     - NAIP
     - ArcPro
     - GIS
-filters:
-   - lightbox
 lightbox: auto
 execute:
   echo: false
@@ -27,7 +25,7 @@ format:
       <figcaption>Click poster to enlarge</figcaption>
     </figure>
 </a> -->
-<!-- 
+<!--
 ```{ojs}
 //| include: false
 

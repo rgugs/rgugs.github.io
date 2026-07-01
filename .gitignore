@@ -4,3 +4,5 @@
 /ignore/
 
 /.luarc.json
+
+**/*.quarto_ipynb
